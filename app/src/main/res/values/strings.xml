@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mast Global</string>
+    <string name="get_details">Get Details</string>
+    <string name="user_error">User doesn\'t exist!</string>
+    <string name="network_error">Network Error</string>
+    <string name="dialog_message">Please Wait...</string>
+    <string name="open_in_browser"><u>open in browser</u></string>
+    <string name="open_issues">open issues</string>
+    <string name="watchers">watchers</string>
+    <string name="size">size</string>
+</resources>
